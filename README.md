@@ -76,3 +76,6 @@
 
 3. Optimizing subgraph queries by combining binary and worst-case optimal joins
     - [PDF](https://arxiv.org/pdf/1903.02076)
+
+4. Adopting worst-case optimal joins in relational database systems
+    - [PDF](https://dl.acm.org/doi/pdf/10.14778/3407790.3407797)
