@@ -66,6 +66,29 @@
 1. Practice of streaming and dynamic graphs: Concepts, models, systems, and parallelism
     - [PDF](https://arxiv.org/pdf/1912.12740)
 
+## Worst-case Optimal Join Algorithms
+
+### Theory
+
+1. Size bounds and query plans for relational joins
+    - [PDF](https://ieeexplore.ieee.org/iel5/4690923/4690924/04691006.pdf)
+
+2. Skew strikes back: New developments in the theory of join algorithms
+    - [PDF](https://dl.acm.org/doi/pdf/10.1145/2590989.2590991)
+
+### Leapfrog Triejoin
+
+1. Leapfrog triejoin: A simple, worst-case optimal join algorithm
+    - [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.761.4166&rep=rep1&type=pdf)
+
+2. Multipredicate join algorithms for accelerating relational graph processing on GPUs
+    - [PDF](http://adms-conf.org/2014/adms14_wu.pdf)
+
+### Streaming Algorithms
+
+1. Flexible caching in trie joins
+    - [PDF](https://arxiv.org/pdf/1602.08721)
+
 ## Join and Join Optimization for Subgraph Matching
 
 1. Graphflow: An active graph database
